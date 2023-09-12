@@ -1,5 +1,11 @@
 # @pandacss/extractor
 
+## 0.15.0
+
+### Patch Changes
+
+- 7c1ab170: Fix issue where the `satisfies` would prevent an object from being extracted
+
 ## 0.14.0
 
 ## 0.13.1
